@@ -25,8 +25,8 @@ This project is a Python web scraper designed to extract article content from sp
 
 ## Usage
 
-    1. Update the script with the target URL.
-    2. Run the script to fetch article content.
+1. Update the script with the target URL.
+2. Run the script to fetch article content.
 
 ## License
 
@@ -34,5 +34,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-    Beautiful Soup for HTML parsing
-    Requests for handling HTTP requests
+- Beautiful Soup for HTML parsing
+- Requests for handling HTTP requests
