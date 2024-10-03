@@ -34,5 +34,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- Beautiful Soup for HTML parsing
-- Requests for handling HTTP requests
+- [Beautiful Soup](https://pypi.org/project/beautifulsoup4/) for HTML parsing
+- [Requests](https://pypi.org/project/requests/) for handling HTTP requests
